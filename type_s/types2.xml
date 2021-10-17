@@ -5009,7 +5009,7 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Ushanka_Brown_Napa">   
-		<nominal>10</nominal>
+		<nominal>11</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
 		<min>5</min>
