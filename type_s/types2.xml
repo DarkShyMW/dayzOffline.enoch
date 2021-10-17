@@ -1905,10 +1905,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_Bible">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1921,10 +1921,10 @@
 		<value name="Tier3"/>
 	</type>                                     
 	<type name="DUG_Book_TheWarOfTheWorlds">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1937,10 +1937,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_AroundTheWorldIn80Days">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1953,10 +1953,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_CrimeAndPunishment"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1969,10 +1969,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_TheMetamorphosis">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -1985,10 +1985,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_TheRaven"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2001,10 +2001,10 @@
 		<value name="Tier3"/>
 	</type>                                 
 	<type name="DUG_Book_TheArtOfWar"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2017,10 +2017,10 @@
 		<value name="Tier3"/>
 	</type>                              
 	<type name="DUG_Book_RobinsonCrusoe"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2033,10 +2033,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_Russian">    
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2049,10 +2049,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_RussianCheatSheet"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2065,10 +2065,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_ThePictureOfDorianGray">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2081,10 +2081,10 @@
 		<value name="Tier3"/>
 	</type>              
 	<type name="DUG_Book_ThePitAndThePendulum"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2097,10 +2097,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_TheTimeMachine">   
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2113,10 +2113,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_TheCountryOfTheBlind"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2129,10 +2129,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_BilaNemoc"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2145,10 +2145,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_Youth">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2161,10 +2161,10 @@
 		<value name="Tier3"/>
 	</type>                             
 	<type name="DUG_Book_Verwandlung"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2177,10 +2177,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_TheJungleBook">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2193,10 +2193,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_TheBrothersKaramazov"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2209,10 +2209,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_TheCallOfCthulhu">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2225,10 +2225,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheShunnedHouse"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2241,10 +2241,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheHoundOfTheBaskervilles"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2257,10 +2257,10 @@
 		<value name="Tier3"/>
 	</type>          
 	<type name="DUG_Book_Andersen">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2273,10 +2273,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_TonyAndTheBeetles">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2289,10 +2289,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_TheCosmicComputer">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2305,14 +2305,14 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_ATravelerInTime"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0-"/>
 		<category name="clothes"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
@@ -2321,10 +2321,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheVariableMan"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2337,10 +2337,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_TheOutlet">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2353,10 +2353,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_TheBarrier">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2369,10 +2369,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_TheDesertOfWheat"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2385,10 +2385,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_FlyingURanch"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2401,10 +2401,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_CassidysRustlerRoundUp"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2417,10 +2417,10 @@
 		<value name="Tier3"/>
 	</type>             
 	<type name="DUG_Book_LonesomeLand"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2433,10 +2433,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_Trailin"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2449,10 +2449,10 @@
 		<value name="Tier3"/>
 	</type>                            
 	<type name="DUG_Book_RonickyDoone"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2465,10 +2465,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_BettyZane">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2481,10 +2481,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_ATexasMatchmaker"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2497,10 +2497,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_TheThunderBird">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2513,10 +2513,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_BlackJack">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2529,10 +2529,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_TheLastTrail"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2545,10 +2545,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_SelectedStories"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2561,10 +2561,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheHeritageOfTheSioux"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2577,10 +2577,10 @@
 		<value name="Tier3"/>
 	</type>             
 	<type name="DUG_Book_DesertGold">    
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2593,10 +2593,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_TheHiddenChildren">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2609,10 +2609,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_TheLastOfThePlainsmen"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2625,10 +2625,10 @@
 		<value name="Tier3"/>
 	</type>              
 	<type name="DUG_Book_GunmansReckoning"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2641,10 +2641,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_SkyriderAndSand"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2657,10 +2657,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_SunsetPass"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2673,10 +2673,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_TheCaveOfGold">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2689,10 +2689,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_TheDayOfTheBeast"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2705,10 +2705,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_TheQuirt"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2721,10 +2721,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_AVoyageToArcturus">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2737,10 +2737,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_WealthOfNations">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2753,10 +2753,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_AndersensFairyTales"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2769,10 +2769,10 @@
 		<value name="Tier3"/>
 	</type>                
 	<type name="DUG_Book_BlackBeauty"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2785,10 +2785,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_Buddenbrooks"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2801,10 +2801,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_DeadSouls">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2817,10 +2817,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_Erewhon">   
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2833,10 +2833,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_FatherGoriot">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2849,10 +2849,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_GreatExpectations"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2865,10 +2865,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_GulliversTravels">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2881,10 +2881,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_HeartOfDarkness"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2897,10 +2897,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_Herland">   
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2913,10 +2913,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_Ivanhoe"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2929,10 +2929,10 @@
 		<value name="Tier3"/>
 	</type>                            
 	<type name="DUG_Book_Kidnapped"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2945,10 +2945,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_LaChartreuseDeParme">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2961,10 +2961,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_LordJim"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2977,10 +2977,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_Nostromo"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2993,10 +2993,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_NaturalSelection"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3009,10 +3009,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_TheMetamorphosesOfOvid"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3025,10 +3025,10 @@
 		<value name="Tier3"/>
 	</type>             
 	<type name="DUG_Book_MobyDick"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3041,10 +3041,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_KingLear">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3057,10 +3057,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_LaDbcle">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3073,10 +3073,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_TheCanterburyTales">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3089,10 +3089,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_TheRightsOfWoman"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3105,10 +3105,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_ToTheInteriorOfTheEarth">    
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3121,10 +3121,10 @@
 		<value name="Tier3"/>
 	</type>         
 	<type name="DUG_Book_NjalsSaga">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3137,10 +3137,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_TheTrial">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3153,10 +3153,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_DonQuixote">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3169,10 +3169,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_PhilosophiaeNaturalis"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3185,10 +3185,10 @@
 		<value name="Tier3"/>
 	</type>              
 	<type name="DUG_Book_PrideAndPrejudice"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3201,10 +3201,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_Rasselas">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3217,10 +3217,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_Scaramouche">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3233,10 +3233,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_She">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3249,10 +3249,10 @@
 		<value name="Tier3"/>
 	</type>                               
 	<type name="DUG_Book_SonsAndLovers">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3265,10 +3265,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_TheCallOfTheWild"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3281,10 +3281,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_TheComingRace">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3297,10 +3297,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_TheIslandOfDoctorMoreau"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3313,10 +3313,10 @@
 		<value name="Tier3"/>
 	</type>            
 	<type name="DUG_Book_TheMahabharataOfKrishna"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3329,10 +3329,10 @@
 		<value name="Tier3"/>
 	</type>            
 	<type name="DUG_Book_TheManWhoWasThursday"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3345,10 +3345,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_ThePossessed">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3361,10 +3361,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_ThePrisonerOfZenda"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3377,10 +3377,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_APrincessOfMars"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3393,10 +3393,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_KingSolomonsMines"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3409,10 +3409,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_Middlemarch">   
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3425,10 +3425,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_TheHouseOfTheSevenGables">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3441,10 +3441,10 @@
 		<value name="Tier3"/>
 	</type>            
 	<type name="DUG_Book_TheMonkARomance"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3457,10 +3457,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheJustifiedSinner"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3473,10 +3473,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_TheRedBadgeOfCourage"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3489,10 +3489,10 @@
 		<value name="Tier3"/>
 	</type>               
 	<type name="DUG_Book_ADollsHouse"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3505,10 +3505,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_AfterLondon">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3521,10 +3521,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_GilgameshEpic"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3537,10 +3537,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_AnnaKarenina"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3553,10 +3553,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_Candide">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3569,10 +3569,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_Faust">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3585,10 +3585,10 @@
 		<value name="Tier3"/>
 	</type>                             
 	<type name="DUG_Book_HinduLiterature"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3601,10 +3601,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_Hunger">    
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3617,10 +3617,10 @@
 		<value name="Tier3"/>
 	</type>                          
 	<type name="DUG_Book_JapaneseLiteraturev"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3633,10 +3633,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_LeRougeEtLeNoir"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3649,10 +3649,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_TheDecameron">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3665,10 +3665,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_TheGiacomoLeopardi">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3681,10 +3681,10 @@
 		<value name="Tier3"/>
 	</type>                
 	<type name="DUG_Book_AliceInWonderland"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3697,10 +3697,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_TheScarletPimpernel"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3713,10 +3713,10 @@
 		<value name="Tier3"/>
 	</type>                
 	<type name="DUG_Book_TheThreeMusketeers"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3729,10 +3729,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_TheTurnOfTheScrew"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3745,10 +3745,10 @@
 		<value name="Tier3"/>
 	</type>                  
 	<type name="DUG_Book_TranslationsOfShakuntala">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3761,10 +3761,10 @@
 		<value name="Tier3"/>
 	</type>          
 	<type name="DUG_Book_TreasureIsland"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3777,10 +3777,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_Ulysses">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3793,10 +3793,10 @@
 		<value name="Tier3"/>
 	</type>                           
 	<type name="DUG_Book_UncleSilas"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3809,10 +3809,10 @@
 		<value name="Tier3"/>
 	</type>                         
 	<type name="DUG_Book_TheAeneid">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3825,10 +3825,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_WarAndPeace"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3841,10 +3841,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_WielandOrTheTransformation"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3857,10 +3857,10 @@
 		<value name="Tier3"/>
 	</type>         
 	<type name="DUG_Book_WutheringHeights"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3873,10 +3873,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_CinqSemainesEnBallon">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3889,8 +3889,8 @@
 		<value name="Tier3"/>
 	</type>              
 	<type name="DUG_Book_Dracula">       
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
 		<min>5</min>
 		<quantmin>-1</quantmin>
@@ -3905,10 +3905,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_MrchenFrKinder"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3921,10 +3921,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_LesTroisMousquetaires">    
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3937,10 +3937,10 @@
 		<value name="Tier3"/>
 	</type>           
 	<type name="DUG_Book_DeLorigineDesEspces"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3953,10 +3953,10 @@
 		<value name="Tier3"/>
 	</type>                
 	<type name="DUG_Book_DasNibelungenlied">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3969,10 +3969,10 @@
 		<value name="Tier3"/>
 	</type>                 
 	<type name="DUG_Book_TheLastMan">   
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3985,10 +3985,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_FaustErsterTeil">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4001,10 +4001,10 @@
 		<value name="Tier3"/>
 	</type>                   
 	<type name="DUG_Book_Lenfer1Of2">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4017,10 +4017,10 @@
 		<value name="Tier3"/>
 	</type>                        
 	<type name="DUG_Book_VoyageAuCentreDeLaTerre"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>1</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4033,10 +4033,10 @@
 		<value name="Tier3"/>
 	</type>            
 	<type name="DUG_Book_RomeoUndJulia"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4049,10 +4049,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_Frankenstein"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4065,10 +4065,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_DeLaTerreLaLune">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4081,10 +4081,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_DonQuichotte">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4097,10 +4097,10 @@
 		<value name="Tier3"/>
 	</type>                      
 	<type name="DUG_Book_LleMystrieuse">
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4113,10 +4113,10 @@
 		<value name="Tier3"/>
 	</type>                       
 	<type name="DUG_Book_LaComdieHumaine"> 
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4129,10 +4129,10 @@
 		<value name="Tier3"/>
 	</type>                    
 	<type name="DUG_Book_LesCorneilles">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4145,10 +4145,10 @@
 		<value name="Tier3"/>
 	</type>                     
 	<type name="DUG_Book_20000LieuesSousLesMers">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4161,10 +4161,10 @@
 		<value name="Tier3"/>
 	</type>            
 	<type name="DUG_Book_ThreeMenInABoat">  
-		<nominal>10</nominal>
-		<lifetime>14400</lifetime>
+		<nominal>0</nominal>
+		<lifetime>0</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
